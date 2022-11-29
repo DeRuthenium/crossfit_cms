@@ -1,0 +1,54 @@
+
+.nav {
+    padding-left: 0;
+}
+
+.nav li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;
+}
+
+.container {
+    width: 940px;
+    margin: 0 auto
+}
+
+.content {
+    float: left;
+    width: 80%;
+}
+
+.sidebar {
+    float: left;
+    width: 20%;
+}
+
+.nadpis-s-fonom{
+    padding: 10px;
+    background-size: cover;
+    color: #fff;
+    box-sizing: border-box;
+    font-size: 50pt;
+}
+footer{
+     width: 100%;
+     /*position: absolute;*/
+     left: 0;
+     bottom: 0;
+     color: white;
+}
+.fon{
+     background-image: url("img/textura.jpg");!important;
+     width: 100%;
+     height: auto;
+
+}
+.image1{
+     position: relative;
+     height: 130px !important;
+     width: 100%;
+}
+.image0{
+     width: 100%;
+}
